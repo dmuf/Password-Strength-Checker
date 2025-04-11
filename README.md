@@ -38,3 +38,5 @@ This Python program checks the strength of a password based on the following cri
 ## Usage:
 - Enter a password into the input field, and click the **"Check Strength"** button to see if it meets the required criteria.
 - The password strength will be displayed as either **"Weak"**, **"Moderate"**, or **"Strong"** based on the evaluation.
+
+## Screenshorts📷
