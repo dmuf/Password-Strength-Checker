@@ -40,3 +40,7 @@ This Python program checks the strength of a password based on the following cri
 - The password strength will be displayed as either **"Weak"**, **"Moderate"**, or **"Strong"** based on the evaluation.
 
 ## Screenshorts📷
+![Password Checker](https://github.com/user-attachments/assets/8927449b-7cc2-48ba-b606-68a507876a26)
+![Password Checker2](https://github.com/user-attachments/assets/7e40775d-4957-45d7-bbb2-39a1ca3e36da)
+![Password CHecker3](https://github.com/user-attachments/assets/0b2f419e-637c-429c-bbd5-c86fc61c9385)
+
