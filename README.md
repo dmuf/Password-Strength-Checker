@@ -30,11 +30,16 @@ A simple Python program that checks the strength of a password based on:
 ---
 ## How it Works 🏢
 The program assigns points based on password rules:
-+1 if length >= 8
+ +1 if length >= 8
+
 +1 if contains uppercase letters
+
 +1 if contains lowercase letters
+
 +1 if contains digits
+
 +1 if contains special characters
+
 Score → Result
 
 0–2 → Weak ❌
@@ -46,6 +51,9 @@ Score → Result
 ## In the Future🔮
 
 ❌ Add Gui
+
 ❌ Add Password generator
+
 ❌ Check pwned and other sites to check if password was leaked in an breach
+
 ❌ Option to exit the loop
