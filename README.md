@@ -50,7 +50,7 @@ Score → Result
 
 ## In the Future🔮
 
-❌ Add Gui
+☑️ Add Gui
 
 ❌ Add Password generator
 
