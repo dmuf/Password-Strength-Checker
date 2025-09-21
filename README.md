@@ -57,8 +57,10 @@ Score → Result
 
 ☑️ Add Gui
 
-❌ Add Password generator
+✅ Add Password generator
 
-❌ Check pwned and other sites to check if password was leaked in an breach
+☑️Check pwned and other sites to check if password was leaked in an breach
 
-❌ Option to exit the loop
+✅ Option to exit the loop
+
+
