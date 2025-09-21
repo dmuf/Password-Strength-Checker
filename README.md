@@ -25,7 +25,7 @@ A simple Python program that checks the strength of a password based on:
    ---
   ## Demo
  
-![App Demo](assets/Demo.gif)
+![Image](https://github.com/user-attachments/assets/2d8bfd23-a8d6-4bfc-9aa0-ab672ec8e1ae)
 
 
 ---
