@@ -12,7 +12,7 @@ A simple Python program that checks the strength of a password based on:
 ## 🚀 Features
 - Rates passwords as **Weak ❌**, **Medium ⚠️**, or **Strong ✅**
 - Runs in a continuous loop, allowing you to test multiple passwords
-- Beginner-friendly, easy to understand code
+- Generates Strong Passwords
 
 ---
 
