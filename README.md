@@ -23,13 +23,9 @@ A simple Python program that checks the strength of a password based on:
    cd password-strength-checker
 
    ---
-  ## Screenshots 📷
-  
-Version 1^<img width="500" height="424" alt="image" src="https://github.com/user-attachments/assets/e859b999-1a70-489a-a4f2-4423dbaa2a7b" /> 
-
-<img width="500" height="424" alt="image" src="https://github.com/user-attachments/assets/d20f114c-d4fe-43cf-a0fe-9681ef32cf84" />
-
-Version 1.1 - added gui^
+  ## Demo
+ 
+ ![App Demo](https://imgur.com/a/wYqJFLO)
 
 
 ---
